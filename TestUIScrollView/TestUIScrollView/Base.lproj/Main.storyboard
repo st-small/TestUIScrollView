@@ -63,6 +63,7 @@
                             <constraint firstItem="MSb-G6-E2Y" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="vLf-T3-7vC"/>
                         </constraints>
                     </view>
+                    <extendedEdge key="edgesForExtendedLayout" bottom="YES"/>
                     <navigationItem key="navigationItem" id="SwL-1m-Tlo"/>
                     <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
                     <size key="freeformSize" width="320" height="900"/>
